@@ -1,0 +1,25 @@
+|--- odor_none <= 0.50
+|   |--- bruises_bruises <= 0.50
+|   |   |--- class: 1
+|   |--- bruises_bruises >  0.50
+|   |   |--- stalk-root_club <= 0.50
+|   |   |   |--- stalk-surface-below-ring_scaly <= 0.50
+|   |   |   |   |--- truncated branch of depth 2
+|   |   |   |--- stalk-surface-below-ring_scaly >  0.50
+|   |   |   |   |--- class: 0
+|   |   |--- stalk-root_club >  0.50
+|   |   |   |--- class: 0
+|--- odor_none >  0.50
+|   |--- spore-print-color_green <= 0.50
+|   |   |--- stalk-surface-below-ring_scaly <= 0.50
+|   |   |   |--- cap-surface_grooves <= 0.50
+|   |   |   |   |--- truncated branch of depth 3
+|   |   |   |--- cap-surface_grooves >  0.50
+|   |   |   |   |--- class: 1
+|   |   |--- stalk-surface-below-ring_scaly >  0.50
+|   |   |   |--- ring-number_two <= 0.50
+|   |   |   |   |--- class: 1
+|   |   |   |--- ring-number_two >  0.50
+|   |   |   |   |--- class: 0
+|   |--- spore-print-color_green >  0.50
+|   |   |--- class: 1

@@ -1,0 +1,160 @@
+{
+  "cap-shape": [
+    "bell",
+    "conical",
+    "convex",
+    "flat",
+    "knobbed",
+    "sunken"
+  ],
+  "cap-surface": [
+    "fibrous",
+    "grooves",
+    "scaly",
+    "smooth"
+  ],
+  "cap-color": [
+    "brown",
+    "buff",
+    "cinnamon",
+    "gray",
+    "green",
+    "pink",
+    "purple",
+    "red",
+    "white",
+    "yellow"
+  ],
+  "bruises": [
+    "bruises",
+    "no"
+  ],
+  "odor": [
+    "almond",
+    "anise",
+    "creosote",
+    "fishy",
+    "foul",
+    "musty",
+    "none",
+    "pungent",
+    "spicy"
+  ],
+  "gill-attachment": [
+    "attached",
+    "free"
+  ],
+  "gill-spacing": [
+    "close",
+    "crowded"
+  ],
+  "gill-size": [
+    "broad",
+    "narrow"
+  ],
+  "gill-color": [
+    "black",
+    "brown",
+    "buff",
+    "chocolate",
+    "gray",
+    "green",
+    "orange",
+    "pink",
+    "purple",
+    "red",
+    "white",
+    "yellow"
+  ],
+  "stalk-shape": [
+    "enlarging",
+    "tapering"
+  ],
+  "stalk-root": [
+    "bulbous",
+    "club",
+    "equal",
+    "missing",
+    "rooted"
+  ],
+  "stalk-surface-above-ring": [
+    "fibrous",
+    "scaly",
+    "silky",
+    "smooth"
+  ],
+  "stalk-surface-below-ring": [
+    "fibrous",
+    "scaly",
+    "silky",
+    "smooth"
+  ],
+  "stalk-color-above-ring": [
+    "brown",
+    "buff",
+    "cinnamon",
+    "gray",
+    "orange",
+    "pink",
+    "red",
+    "white",
+    "yellow"
+  ],
+  "stalk-color-below-ring": [
+    "brown",
+    "buff",
+    "cinnamon",
+    "gray",
+    "orange",
+    "pink",
+    "red",
+    "white",
+    "yellow"
+  ],
+  "veil-color": [
+    "brown",
+    "orange",
+    "white",
+    "yellow"
+  ],
+  "ring-number": [
+    "none",
+    "one",
+    "two"
+  ],
+  "ring-type": [
+    "evanescent",
+    "flaring",
+    "large",
+    "none",
+    "pendant"
+  ],
+  "spore-print-color": [
+    "black",
+    "brown",
+    "buff",
+    "chocolate",
+    "green",
+    "orange",
+    "purple",
+    "white",
+    "yellow"
+  ],
+  "population": [
+    "abundant",
+    "clustered",
+    "numerous",
+    "scattered",
+    "several",
+    "solitary"
+  ],
+  "habitat": [
+    "grasses",
+    "leaves",
+    "meadows",
+    "paths",
+    "urban",
+    "waste",
+    "woods"
+  ]
+}
